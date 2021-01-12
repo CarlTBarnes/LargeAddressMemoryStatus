@@ -12,4 +12,4 @@ https://docs.microsoft.com/en-us/windows/win32/api/sysinfoapi/ns-sysinfoapi-memo
 
 In the below screen capture you see the first line "TotalVirtual" is almost 4GB (FFFE0000h vs FFFFFFFFh).
 
-![screen cap](readme.png)
+![screen cap](ReadMe.png)
