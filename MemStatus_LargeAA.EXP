@@ -1,5 +1,5 @@
 NAME 'MemStatus_LargeAA' GUI
 LARGE_ADDRESS
-FIXED
+; FIXED will not work in 11.13630
 ; comment line 
 
