@@ -1,0 +1,5 @@
+NAME 'MemMaxCheck' GUI
+; no LARGE_ADDRESS
+; FIXED will not work in 11.13630
+
+
